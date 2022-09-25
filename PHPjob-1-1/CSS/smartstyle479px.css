@@ -1,0 +1,45 @@
+@media screen and (max-width: 479px) {
+    .wrap {
+        width: 150px;
+    }
+
+    .left {
+        width: 100%;
+        height: 100px;
+        float: none;
+    }
+    
+    .right {
+        width: 100%;
+        float: none;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .right1 {
+        height: 100%;
+        float: none;
+        order: 1;
+    }
+    
+    .yellow {
+        width: 100%;
+    }
+    
+    .blue {
+        width: 100%;
+    }
+    
+    .right2 {
+        width: 100%;
+        height: 100px;
+        float: none;
+        order: 0;
+    }
+    
+    .right3 {
+        width: 100%;
+        margin-top: auto;
+        order: 2;
+    }
+}

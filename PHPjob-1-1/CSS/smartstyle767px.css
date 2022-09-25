@@ -1,0 +1,33 @@
+@media screen and (max-width: 767px) {    
+    .header {
+        width: 300px;
+    }
+    
+    .left {
+        width: 100px;
+    }
+    
+    .right1 {
+        height: 125px;
+    }
+    
+    .yellow {
+        width: 125px;
+    }
+    
+    .blue {
+        width: 125px;
+    }
+    
+    .right2 {
+        width: 75px;
+    }
+    
+    .right3 {
+        width: 200px;
+    }
+    
+    .fooder {
+        width: 300px;
+    }
+}
