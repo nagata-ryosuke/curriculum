@@ -1,0 +1,52 @@
+@media screen and (max-width: 479px) {
+
+.wrap {
+    width: 200px;
+}
+
+.header {
+    width: 200px;
+    height: 200px;
+}
+
+.headerbox {
+    width: 60px;
+    height: 160px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    top: 20px;
+    left: 70px;
+}
+
+.main {
+    width: 200px;
+}
+
+.left {
+    width: 100%;
+    height: 100px;
+    float: none;
+}
+
+.right {
+    width: 100%;
+    height: 200px;
+    float: none;
+}
+
+.rightitem {
+    width: 130px;
+    height: 37px;
+    position: relative;
+    left: 30px;
+    top: 20px;
+}
+
+.footer {
+    width: 200px;
+}
+
+}
